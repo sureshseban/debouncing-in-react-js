@@ -1,5 +1,8 @@
 # debouncing-in-react-js
 Debouncing is the approach that frontend developers normally use to improve their code performance. 
+Debouncing in software development in simple is a technique used to save computing resources by doing the expensive computations only on the latest input when the input changes very frequently.
+A common use case of debouncing is on front-end development is on a search page, instead of making api calls on each key press or change, the code will wait for a particular time and execute the operation with the latest available input.
+As a result the developer can control the api calls, save the browser being get locked and provide an awesome experience to the end user.
 
 # Getting Started with Create React App
 
